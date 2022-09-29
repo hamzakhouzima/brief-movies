@@ -19,10 +19,17 @@ font-weight:bold;
   margin-left: 5px;
 
   }
-  .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    margin: auto;
-    text-align: center;
-    font-family: arial;
+  
+
+ .card {
+    border: 2px outset rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 150px;
+  margin-right: 19cm;
+  margin-left: 1cm;
+  padding-top: 6cm;
+  padding-bottom: 6cm;
   }
+
